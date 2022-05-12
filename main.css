@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    display: block
+}
+
+#c {
+    
+    
+    /* margin: 50px auto;
+    margin: calc(50vh - 250px) auto; */
+    margin-left: 670px;
+    
+  }
+
+  p {
+      color: aliceblue;
+      text-align: center;
+  }
+
+
